@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @bhanuteja1848
+- 👋 Hi, I’m Bhanu Teja
 - 👀 I’m interested in Programming
 - 🌱 I’m currently learning Web Development
 - 💞️ I’m looking to collaborate on ...
