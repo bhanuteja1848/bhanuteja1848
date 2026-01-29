@@ -1,7 +1,5 @@
-- 👋 Hi, I’m Bhanu Teja
-- 👀 I’m interested in Programming
-- 🌱 I’m currently learning Web Development
-- 💞️ I’m looking to collaborate on ...
+- 👋 Hey, I’m Bhanu Teja
+- 👀 I'm interested in Data Analytics.
 - 📫 Reach me at bhanutejabarkam1848@gmail.com
 - 
 <!---
