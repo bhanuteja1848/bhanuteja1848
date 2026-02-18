@@ -1,5 +1,5 @@
 - 👋 Hey, I’m Bhanu Teja
-- 👀 I'm interested in Data Analytics.
+- 👀 I work as a Sales Data Analyst.
 - 📫 Reach me at bhanutejabarkam1848@gmail.com
 - 
 <!---
