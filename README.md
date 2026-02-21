@@ -4,18 +4,16 @@ I am a BSc Data Science graduate with a background rooted in curiosity-driven te
 
 Today, I am dedicated to bridging the gap between raw numbers and impactful business decisions through analytics and storytelling.
 
+<br>
+
 # 🚀 What I’m Up To:
 
-Current Role: Driving insights as a Sales Data Analyst Intern.
-Learning: Deep diving into Advanced Analytics and Machine Learning at Aston University.
-Focus: Building data-driven solutions that simplify complex problems.
-Interests: Exploring the intersection of data science, business strategy, and ethical tech.
+- Current Role: Driving insights as a Sales Data Analyst Intern.
+- Learning: Deep diving into Advanced Analytics and Machine Learning at Aston University.
+- Focus: Building data-driven solutions that simplify complex problems.
+- Interests: Exploring the intersection of data science, business strategy, and ethical tech.
 
-# 🛠️ Tech Stack:
-
-Languages: Python, SQL
-Data Viz: Tableau, Power BI, Matplotlib, Seaborn
-Tools: Excel, Git, AWS/Azure (Learning)
+<br>
 
 # 📫 Let's Connect:
 
