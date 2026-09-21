@@ -8,7 +8,7 @@ Today, I am dedicated to bridging the gap between raw numbers and impactful busi
 
 # 🚀 What I’m Up To:
 
-- Current Role: Driving insights as a Sales Data Analyst Intern.
+- Current Role: Driving insights as a Data Analyst 
 - Learning: Deep diving into Advanced Analytics and Machine Learning at Aston University.
 - Focus: Building data-driven solutions that simplify complex problems.
 - Interests: Exploring the intersection of data science, business strategy, and ethical tech.
