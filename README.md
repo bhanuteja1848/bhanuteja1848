@@ -1,6 +1,6 @@
 # 👋 Hi there, I'm Bhanu!
 
-I am a BSc Data Science graduate with a background rooted in curiosity-driven tech exploration. My journey began with a fascination for mobile devices and ethical hacking, which eventually shifted my focus toward the true engine of modern technology: Data.
+I am a MSc Data Science graduate with a background rooted in curiosity-driven tech exploration. My journey began with a fascination for mobile devices and ethical hacking, which eventually shifted my focus toward the true engine of modern technology: Data.
 
 Today, I am dedicated to bridging the gap between raw numbers and impactful business decisions through analytics and storytelling.
 
