@@ -11,7 +11,7 @@ My experience spans operations, sales, and customer analytics, where I've worked
 
 ## 📚 Projects
 
-Welcome to my portfolio, where I share projects in data analytics, SQL, Python, Power BI, and customer insights.
+You can see all my projects, [here] (https://github.com/bhanuteja1848/Portfolio-Guide)
 
 ## 🛠️ Tools
 
