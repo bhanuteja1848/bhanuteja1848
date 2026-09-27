@@ -1,17 +1,31 @@
-# 👋 Hi there, I'm Bhanu!
+## 👋 Hi there, I'm Bhanu!
 
-I am a MSc Data Science graduate with a background rooted in curiosity-driven tech exploration. My journey began with a fascination for mobile devices and ethical hacking, which eventually shifted my focus toward the true engine of modern technology: Data.
+I'm a Data Analyst with 2+ years of experience turning data into insights that help businesses make better decisions.
 
-Today, I am dedicated to bridging the gap between raw numbers and impactful business decisions through analytics and storytelling.
+My experience spans operations, sales, and customer analytics, where I've worked with real-world data to understand problems, uncover trends, improve processes, and communicate insights clearly.
 
-<br>
+- Analyse business data to find trends, patterns, and actionable insights.
+- Build dashboards and reports using Power BI, SQL, Python, and Excel.
+- Work with customer behaviour, operational performance, and business KPIs.
+- Interested in turning complex data into simple and useful insights.
 
-# 🚀 What I’m Up To:
+## 📚 Projects
 
-- Current Role: Driving insights as a Data Analyst 
-- Learning: Deep diving into Advanced Analytics and Machine Learning at Aston University.
-- Focus: Building data-driven solutions that simplify complex problems.
-- Interests: Exploring the intersection of data science, business strategy, and ethical tech.
+Welcome to my portfolio, where I share projects in data analytics, SQL, Python, Power BI, and customer insights.
+
+## 🛠️ Tools
+
+- Languages: SQL, Python
+- Database: PostgreSQL, Relational Databases
+- BI & Visualisation: Power BI, DAX
+- Data: Excel, Power Query, Data Modelling
+- Analytics: Cohort Analysis, A/B Testing, Customer Analytics, Root-Cause Analysis
+
+## 🎓 Education
+
+- MSc Data Science — Aston University
+- BSc Data Science — Telangana University
+
 
 <br>
 
@@ -21,7 +35,3 @@ Today, I am dedicated to bridging the gap between raw numbers and impactful busi
   <img src="https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
 </a>
 
-<!---
-bhanuteja1848/bhanuteja1848 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
