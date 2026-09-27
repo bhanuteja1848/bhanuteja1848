@@ -11,7 +11,7 @@ My experience spans operations, sales, and customer analytics, where I've worked
 
 ## 📚 Projects
 
-You can see all my projects, [here] (https://github.com/bhanuteja1848/Portfolio-Guide)
+You can see all my projects, [here](https://github.com/bhanuteja1848/Portfolio-Guide)
 
 ## 🛠️ Tools
 
